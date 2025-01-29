@@ -3,52 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilo.css">
-    <link rel="icon" type="image/icon" href="icon.png">
+    <!-- Pasta CSS -->
+    <link rel="stylesheet" href="Assets/CSS/estilo.css">
+    <!-- Favicon -->
+    <link rel="icon" type="image/icon" href="img/icon.png">
     <title>Netflix</title>
 </head>
 <body>
+    <!-- Cabeçalho com logo -->
     <div class="header">
         <div class="logo">
-            <a href="#">
-                <img src="netflix.png" alt="#">
-            </a>
+            <a href="#"><img src="img/netflix.png" alt="Logo Netflix"></a>
         </div>
     </div>
+
+    <!-- Corpo do login -->
     <div class="login_body">
         <div class="login_box">
             <h2>Entrar</h2>
-        <form>
-            <div class="input_box">
-                <input required type="email" placeholder="Email ou número de telefone">
+    
+            <!-- Formulário -->
+            <form>
+                <div class="input_box">
+                    <input required type="email" placeholder="Email ou número de telefone">
+                </div>
+                <div class="input_box">
+                    <input required type="password" placeholder="Senha">
+                </div>
+                <div>
+                    <button class="submit">Entrar</button>
+                </div>
+            </form>
+    
+            <!-- Opções de lembrete e ajuda -->
+            <div class="support">
+                <div class="remember">
+                    <span><input type="checkbox" style="margin: 0; padding: 0; height: 13px;"></span>
+                    <span>Lembre-se de mim</span>
+                </div>
+                <div class="help">
+                    <a href="https://help.netflix.com/pt">Precisa de ajuda?</a>
+                </div>
             </div>
-            <div class="input_box">
-                <input required type="password" placeholder="Senha">
+    
+            <!-- Link para criar conta -->
+            <div class="sign_up">
+                <p>Novo por aqui? <a href="https://www.netflix.com/br/">Assine agora.</a></p>
             </div>
-            <div>
-                <button class="submit">
-                    Entrar
-                </button>
+    
+            <!-- Aviso de reCAPTCHA -->
+            <div class="terms">
+                <p>Esta página é protegida pelo Google reCAPTCHA. <a href="#">Saiba mais</a></p>
             </div>
-        </form>
-        <div class="support">
-            <div class="remember">
-                <span><input type="checkbox" style="margin: 0;padding: 0; height: 13px;"></span>
-                <span>Lembre-se de mim</span>
-            </div>
-            <div class="help">
-                <a href="https://help.netflix.com/pt">
-                    Precisa de ajuda?
-                </a>
-            </div>
-        </div>
-        <div class="sign_up">
-            <p>Novo por aqui? <a href="https://www.netflix.com/br/">Assine agora.</a></p>
-        </div>
-
-        <div class="terms">
-            <p>Esta página é protegida pelo Google reCAPTCHA para garantir que você não é um robô. <a href="#">Saiba mais</a></p>
-        </div>
         </div>
     </div>
 </body>
