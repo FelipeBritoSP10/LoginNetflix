@@ -46,7 +46,7 @@ cd LoginNetflix
 ```
 
 # Instalação
-Após clonar o repositório, basta abrir o arquivo index.html em um navegador de sua preferência para visualizar a tela de login. Não há dependências externas, então o projeto pode ser usado imediatamente.
+Após clonar o repositório e ir para o diretório, basta abrir o arquivo index.html em um navegador de sua preferência para visualizar a tela de login. Não há dependências externas, então o projeto pode ser usado imediatamente.
 
 # Personalização
 Modifique o arquivo index.html para ajustar os textos, cores ou até mesmo adicionar novas funcionalidades.
