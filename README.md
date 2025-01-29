@@ -41,7 +41,21 @@ Organização lógica dos arquivos, com pastas para CSS e imagens dentro de *Ass
 Clone o repositório ou baixe o arquivo ZIP do projeto:
 
 ```bash
-git clone https://github.com/FelipeBritoSP10/LoginNetflix.git
-
+git clone https://github.com/FelipeBritoSP10/LoginNetflix.git 
+```
 # Instalação
 Após clonar o repositório, basta abrir o arquivo index.html em um navegador de sua preferência para visualizar a tela de login. Não há dependências externas, então o projeto pode ser usado imediatamente.
+
+# Personalização
+Modifique o arquivo index.html para ajustar os textos, cores ou até mesmo adicionar novas funcionalidades.
+O arquivo styles.css permite personalizar o layout e as cores do projeto. Você pode ajustar os estilos de acordo com suas necessidades.
+
+# Pré-Requisitos
+Para rodar este projeto, você precisa de um navegador moderno (como Chrome, Firefox ou Edge).
+O projeto é 100% funcional no ambiente local sem necessidade de servidor ou back-end.
+
+# ✅ Conclusão
+Projeto de login simples, funcional e visualmente atraente, inspirado na Netflix, com HTML e CSS. A estrutura está otimizada para manutenção e futuras melhorias.
+
+
+
