@@ -54,8 +54,14 @@ O arquivo styles.css permite personalizar o layout e as cores do projeto. Você 
 Para rodar este projeto, você precisa de um navegador moderno (como Chrome, Firefox ou Edge).
 O projeto é 100% funcional no ambiente local sem necessidade de servidor ou back-end.
 
+🌐 Visualize o Projeto
+Você pode visualizar o projeto em https://login-netflix-two.vercel.app/
+
+
 # ✅ Conclusão
 Projeto de login simples, funcional e visualmente atraente, inspirado na Netflix, com HTML e CSS. A estrutura está otimizada para manutenção e futuras melhorias.
 
 
+# Imagem do projeto
 
+![foto](https://github.com/user-attachments/assets/24bfbd92-4db7-426b-8596-9c7ed9c15828)
