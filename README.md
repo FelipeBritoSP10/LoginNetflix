@@ -41,8 +41,10 @@ Organização lógica dos arquivos, com pastas para CSS e imagens dentro de *Ass
 Clone o repositório ou baixe o arquivo ZIP do projeto:
 
 ```bash
-git clone https://github.com/FelipeBritoSP10/LoginNetflix.git 
+git clone https://github.com/FelipeBritoSP10/LoginNetflix.git
+cd LoginNetflix
 ```
+
 # Instalação
 Após clonar o repositório, basta abrir o arquivo index.html em um navegador de sua preferência para visualizar a tela de login. Não há dependências externas, então o projeto pode ser usado imediatamente.
 
