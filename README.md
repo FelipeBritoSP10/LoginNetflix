@@ -54,7 +54,7 @@ O arquivo styles.css permite personalizar o layout e as cores do projeto. Você 
 Para rodar este projeto, você precisa de um navegador moderno (como Chrome, Firefox ou Edge).
 O projeto é 100% funcional no ambiente local sem necessidade de servidor ou back-end.
 
-🌐 Visualize o Projeto
+# 🌐 Visualize o Projeto
 Você pode visualizar o projeto em https://login-netflix-two.vercel.app/
 
 
