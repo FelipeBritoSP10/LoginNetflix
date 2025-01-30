@@ -32,6 +32,7 @@ Desenvolver uma página de login para permitir o acesso dos usuários com e-mail
 A estrutura do projeto foi organizada de forma a garantir boa manutenção e fácil navegação. As pastas são divididas entre:
 - `assets/` - Contém todas as imagens (como logo, fundo, etc.).
 - `css/` - Contém os estilos da página.
+
 O arquivo `index.html` será responsável por rodar o projeto e estará localizado na raiz da estrutura.
 
 
